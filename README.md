@@ -1,7 +1,5 @@
 # Fingerprint-Recognition-MATLAB
 
-# Fingerprint Recognition using MATLAB
-
 ## 📌 Description
 This project implements fingerprint recognition using Digital Image Processing in MATLAB.
 
