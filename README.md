@@ -1,28 +1,69 @@
-# Fingerprint-Recognition-MATLAB
+# 🔍 Fingerprint Recognition using MATLAB
 
-## 📌 Description
-This project implements fingerprint recognition using Digital Image Processing in MATLAB.
+## 📌 Personal Learning Project
 
-## ⚙️ Features
-- Image enhancement
-- Binarization
-- Thinning
-- Minutiae extraction
-- Fingerprint matching using correlation
+This project is a **self-initiated learning project** to understand the fundamentals of **biometric systems** and **Digital Image Processing (DIP)** using MATLAB.
 
-## 🧠 Tools Used
+---
+
+## 🎯 Objective
+To explore how fingerprint recognition systems work by implementing basic image processing techniques and matching algorithms.
+
+---
+
+## 🧠 What I Learned
+- Image preprocessing and enhancement  
+- Noise removal techniques  
+- Binarization and segmentation  
+- Skeletonization (thinning)  
+- Minutiae extraction (ridge endings & bifurcations)  
+- Basic fingerprint matching using correlation  
+
+---
+
+## ⚙️ Technologies Used
 - MATLAB (Image Processing Toolbox)
 
+---
+
+## 🔄 Workflow
+1. Input fingerprint image  
+2. Convert to grayscale  
+3. Enhance image quality  
+4. Apply filtering  
+5. Perform binarization  
+6. Thinning (skeletonization)  
+7. Extract minutiae features  
+8. Match fingerprints  
+
+---
+
 ## ▶️ How to Run
-1. Open MATLAB
-2. Run main.m
-3. Make sure dataset folder contains fingerprint images
+1. Open MATLAB  
+2. Set project folder as current directory  
+3. Run `main.m`  
+4. Ensure images are in `dataset/` folder  
+
+---
 
 ## 📊 Output
-- Enhanced fingerprint images
-- Minutiae points
-- Matching result
+- Enhanced fingerprint images  
+- Thinned fingerprint structure  
+- Minutiae point detection  
+- Matching score  
+
+---
 
 ## 🚀 Future Improvements
-- GUI interface
-- Machine learning based matching
+- GUI using App Designer  
+- Advanced minutiae-based matching  
+- Machine learning integration  
+
+---
+
+## 👩‍💻 Author
+Divyanjali 
+
+---
+
+✨ This project reflects my interest in learning practical applications of image processing.
